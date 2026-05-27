@@ -1,22 +1,40 @@
-# oficinapro-leads
+# OficinaPro Leads
 
-Feed público de propiedades dueño directo en la Costa Atlántica argentina.
+Generado: **2026-05-27T12:19:44.383858+00:00** (2026-05-27)
 
-**Última actualización:** 2026-05-26 12:58 (ART)
+## Stats
 
-## Stats hoy
-- Total: **126**
+- Total: **288**
 - Cambios de precio: **0**
-- Nuevas vs ayer: **126**
+- Nuevas vs ayer: **288**
+- Fuentes: Argenprop, MercadoLibre, Zonaprop
+- Zonas: Partido de la Costa, Pinamar y zona, Villa Gesell y zona
 
-## Por zona
-- **Partido de la Costa:** 68
-- **Pinamar y zona:** 39
-- **Villa Gesell y zona:** 19
+## Por ciudad
+
+- Costa Esmeralda: 49
+- Pinamar: 42
+- San Clemente del Tuyú: 31
+- Mar de Ajó: 28
+- Villa Gesell: 17
+- San Bernardo: 17
+- Mar Azul: 13
+- Cariló: 11
+- Mar del Tuyú: 11
+- Costa Azul: 11
+- Ostende: 8
+- Santa Teresita: 8
+- Costa del Este: 7
+- Mar de Ostende: 6
+- Valeria del Mar: 6
+- Las Toninas: 6
+- La Lucila del Mar: 6
+- Mar de las Pampas: 4
+- Las Gaviotas: 3
+- Aguas Verdes: 3
+- Montecarlo: 1
 
 ## URL pública
-```
-https://raw.githubusercontent.com/matiasmelia/oficinapro-leads/main/propiedades.json
-```
 
-Fuentes: Zonaprop, Argenprop, MercadoLibre (filtro dueño directo).
+https://raw.githubusercontent.com/matiasmelia/oficinapro-leads/main/propiedades.json
+
