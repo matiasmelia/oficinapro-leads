@@ -1,13 +1,18 @@
-# OficinaPro Leads
+# OficinaPro — Leads Dueño Directo (Costa Atlántica)
 
-Propiedades en VENTA por DUEÑO DIRECTO — Costa Atlántica.
+Feed automático de propiedades en **venta por dueño directo** en la Costa Atlántica.
 
-**Última actualización:** 2026-06-15 (2026-06-15T02:13:01.111786)
+**Última actualización:** 2026-06-15 (2026-06-16T02:13:41.409988+00:00)
 
-- Total: 356
-- Cambios de precio: 0
-- Nuevas vs ayer: 356
-- Fuentes: MercadoLibre, Zonaprop
-- Zonas: Partido de la Costa, Pinamar y zona, Villa Gesell y zona
+| Métrica | Valor |
+|---|---|
+| Total propiedades | 123 |
+| Cambios de precio | 0 |
+| Nuevas vs ayer | 123 |
+| Zonas | Partido de la Costa, Pinamar y zona, Villa Gesell y zona |
+| Fuentes | Argenprop, Zonaprop |
 
-Consumir: `https://raw.githubusercontent.com/matiasmelia/oficinapro-leads/main/propiedades.json`
+URL pública consumida por el portal:
+```
+https://raw.githubusercontent.com/matiasmelia/oficinapro-leads/main/propiedades.json
+```
