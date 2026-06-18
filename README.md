@@ -1,22 +1,39 @@
-# OficinaPro — Leads dueño directo (Costa Atlántica)
+# OficinaPro — Leads Dueño Directo Costa Atlántica
 
-Feed automático de propiedades en **venta por dueño directo** en la Costa Atlántica.
-El portal OficinaPro consume `propiedades.json` desde:
+**Última actualización:** 2026-06-18T02:24:24.885773
 
-```
-https://raw.githubusercontent.com/matiasmelia/oficinapro-leads/main/propiedades.json
-```
+- Total propiedades: **706**
+- Cambios de precio: **0**
+- Nuevas vs ayer: **0**
+- Fuentes: MercadoLibre, Zonaprop
 
-## Última actualización: 2026-06-17
+Consumir: `https://raw.githubusercontent.com/matiasmelia/oficinapro-leads/main/propiedades.json`
 
-- **Total propiedades:** 841
-- **Nuevas vs. ayer:** 841
-- **Cambios de precio:** 0
-- **Fuentes:** Argenprop, MercadoLibre, Zonaprop
+## Por zona
 
-### Por zona
-- **Partido de la Costa**: 423
-- **Pinamar y zona**: 287
-- **Villa Gesell y zona**: 131
+- Partido de la Costa: 293
+- Pinamar y zona: 258
+- Villa Gesell y zona: 155
 
-_Generado automáticamente — `generated_at`: 2026-06-17T02:23:22.599634+00:00_
+## Por ciudad
+
+- Pinamar: 114
+- Villa Gesell: 87
+- San Bernardo: 71
+- Santa Teresita: 57
+- Costa Esmeralda: 56
+- Las Toninas: 45
+- Ostende: 44
+- San Clemente del Tuyú: 35
+- Mar de Ajó: 35
+- Mar Azul: 31
+- Mar de Ostende: 22
+- Las Gaviotas: 21
+- La Lucila del Mar: 18
+- Mar de las Pampas: 16
+- Costa del Este: 13
+- Valeria del Mar: 12
+- Mar del Tuyú: 11
+- Cariló: 10
+- Costa Azul: 6
+- Aguas Verdes: 2
