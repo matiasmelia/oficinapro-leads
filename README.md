@@ -1,16 +1,18 @@
-# OficinaPro Leads — Propiedades Dueño Directo Costa Atlántica
+# OficinaPro — Leads dueño directo Costa Atlántica
 
-Última actualización: **2026-06-20** (2026-06-20T02:16:31.644905)
+Última actualización: **2026-06-21**
 
-- Total propiedades: **1053**
-- Nuevas vs ayer: **1053**
-- Cambios de precio: **0**
-- Fuentes: Argenprop, MercadoLibre, Zonaprop
+| Métrica | Valor |
+|---|---|
+| Total propiedades | 156 |
+| Cambios de precio | 1 |
+| Nuevas vs ayer | 4 |
+| Fuentes | Zonaprop |
 
-## Por zona
+### Por zona
+- Partido de la Costa: 77
+- Pinamar y zona: 53
+- Villa Gesell y zona: 26
 
-- Pinamar y zona: 424
-- Partido de la Costa: 403
-- Villa Gesell y zona: 226
-
-Consumir: `https://raw.githubusercontent.com/matiasmelia/oficinapro-leads/main/propiedades.json`
+URL pública consumida por el portal:
+`https://raw.githubusercontent.com/matiasmelia/oficinapro-leads/main/propiedades.json`
