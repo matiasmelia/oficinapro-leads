@@ -1,36 +1,21 @@
-# OficinaPro Leads
+# OficinaPro - Leads Dueño Directo Costa Atlántica
 
-Propiedades en VENTA por **dueño directo** en la Costa Atlántica.
+Listado diario de propiedades en **venta por dueño directo** (filtradas las inmobiliarias).
 
-Consumido por el portal OficinaPro desde `https://raw.githubusercontent.com/matiasmelia/oficinapro-leads/main/propiedades.json`
+**Última actualización:** 2026-06-26 (2026-06-26T13:27:05.730666)
 
-## Última actualización: 2026-06-24
+## Stats
+- Total propiedades: **692**
+- Nuevas vs ayer: 692
+- Cambios de precio: 0
+- Descartadas por ser inmobiliaria: 307
+- Fuentes: argenprop, mercadolibre, zonaprop
 
-- Total propiedades: **644**
-- Nuevas vs ayer: **0**
-- Cambios de precio: **0**
-- Fuentes: Argenprop, MercadoLibre, Zonaprop
+### Por zona
+- Partido de la Costa: 406
+- Pinamar y zona: 185
+- Villa Gesell y zona: 101
 
-### Por ciudad
-
-- Aguas Verdes: 8
-- Cariló: 9
-- Costa Azul: 17
-- Costa Chica: 1
-- Costa Esmeralda: 59
-- Costa del Este: 30
-- La Lucila del Mar: 19
-- Las Toninas: 40
-- Mar Azul: 23
-- Mar de Ajó: 38
-- Mar de Ostende: 7
-- Mar de las Pampas: 17
-- Mar del Tuyú: 64
-- Montecarlo: 1
-- Ostende: 14
-- Pinamar: 69
-- San Bernardo: 61
-- San Clemente del Tuyú: 31
-- Santa Teresita: 58
-- Valeria del Mar: 11
-- Villa Gesell: 67
+## Consumo
+URL pública del JSON:
+`https://raw.githubusercontent.com/matiasmelia/oficinapro-leads/main/propiedades.json`
