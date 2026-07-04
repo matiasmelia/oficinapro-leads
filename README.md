@@ -1,12 +1,15 @@
-# OficinaPro Leads - Dueño Directo Costa Atlantica
+# oficinapro-leads
 
-Ultima actualizacion: **2026-07-01** (2026-07-02T02:09:32.388917+00:00)
+Listado diario de propiedades en VENTA por DUEÑO DIRECTO en la Costa Atlántica.
+Consumido por el portal OficinaPro.
 
-- Total propiedades: **503**
-- Nuevas vs ayer: 503
-- Cambios de precio: 0
-- Descartadas por inmobiliaria: 294
-- Fuentes: argenprop, mercadolibre, zonaprop
-- Zonas: Aguas Verdes, Cariló, Costa Azul, Costa Chica, Costa Esmeralda, Costa del Este, La Lucila del Mar, Las Gaviotas, Las Toninas, Mar Azul, Mar de Ajó, Mar de Ostende, Mar de las Pampas, Mar del Tuyú, Montecarlo, Ostende, Pinamar, San Bernardo, San Clemente del Tuyú, Santa Teresita, Valeria del Mar, Villa Gesell
+- **Última actualización:** 2026-07-03T23:11:35.582639-03:00
+- **Fecha:** 2026-07-03
+- **Total propiedades:** 653
+- **Nuevas vs ayer:** 653
+- **Cambios de precio:** 0
+- **Descartadas por inmobiliaria:** 11
+- **Fuentes:** mercadolibre, zonaprop
+- **Zonas:** Partido de la Costa, Pinamar y zona, Villa Gesell y zona
 
-URL publica: `https://raw.githubusercontent.com/matiasmelia/oficinapro-leads/main/propiedades.json`
+JSON público: https://raw.githubusercontent.com/matiasmelia/oficinapro-leads/main/propiedades.json
