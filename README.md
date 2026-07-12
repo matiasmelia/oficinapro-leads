@@ -1,36 +1,36 @@
 # OficinaPro - Leads (dueno directo, Costa Atlantica)
 
-Ultima actualizacion: **2026-07-10T23:09:02.388106**
+Ultima actualizacion: **2026-07-12T13:27:06.132008**
 
-- Total propiedades: **622**
-- Nuevas vs ayer: **622**
-- Cambios de precio: **0**
-- Descartadas por inmobiliaria: **62**
+- Total propiedades: **686**
+- Nuevas vs ayer: **114**
+- Cambios de precio: **3**
+- Descartadas por inmobiliaria: **26**
 - Fuentes: argenprop, mercadolibre, zonaprop
 
 ## Por zona
 
-- Pinamar: 64
+- Pinamar: 75
+- Santa Teresita: 65
+- Villa Gesell: 63
 - Costa Esmeralda: 62
+- San Bernardo: 62
 - Mar del Tuyu: 57
-- Villa Gesell: 55
-- Santa Teresita: 53
-- San Clemente del Tuyu: 51
-- San Bernardo: 51
-- Las Toninas: 38
-- Mar de Ajo: 38
-- Costa del Este: 29
-- Montecarlo: 19
+- San Clemente del Tuyu: 52
+- Las Toninas: 42
+- Mar de Ajo: 39
+- Costa del Este: 38
 - Mar Azul: 18
-- Carilo: 16
-- Mar de las Pampas: 13
-- Ostende: 11
-- Valeria del Mar: 11
-- La Lucila del Mar: 11
+- Montecarlo: 18
+- Valeria del Mar: 18
+- La Lucila del Mar: 16
+- Mar de las Pampas: 15
 - Costa Azul: 11
-- Las Gaviotas: 4
+- Ostende: 10
+- Carilo: 9
+- Mar de Ostende: 5
 - Aguas Verdes: 4
-- Mar de Ostende: 3
+- Las Gaviotas: 4
 - Costa Chica: 3
 
 Feed publico: `propiedades.json`
