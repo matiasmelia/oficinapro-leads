@@ -1,48 +1,49 @@
-# OficinaPro — Leads dueño directo (Costa Atlántica)
+# oficinapro-leads
 
-Última actualización: **2026-07-15T23:15:02.344626**
+Listado diario de propiedades en **venta por dueño directo** en la Costa Atlántica.
 
-- Total propiedades: **493**
-- Nuevas vs ayer: **0**
-- Cambios de precio: **0**
-- Descartadas por ser inmobiliaria: **9**
-- Descartadas por ubicación fuera de zona: **203**
-- Reasignadas a su ciudad real: **66**
-- Fuentes: Zonaprop, MercadoLibre
+**Última actualización:** 2026-07-16 23:07 (America/Argentina/Buenos_Aires)
 
-## Por zona
+## Feed
+`https://raw.githubusercontent.com/matiasmelia/oficinapro-leads/main/propiedades.json`
 
-- **Partido de la Costa**: 267
-- **Pinamar y zona**: 148
-- **Villa Gesell y zona**: 78
+## Stats de hoy
+- Total propiedades: **423**
+- Nuevas vs ayer: 423
+- Cambios de precio: 0
+- Descartadas por filtro anti-inmobiliaria: 84
+- Descartadas por ubicación inválida: 275
+- Reasignadas de ciudad: 52
 
-## Por ciudad
+### Por zona
+- Pinamar y zona: 139
+- Villa Gesell y zona: 65
+- Partido de la Costa: 219
 
-- Pinamar: 60
-- San Bernardo: 52
-- Villa Gesell: 50
-- Mar del Tuyú: 46
-- Costa Esmeralda: 46
-- Santa Teresita: 37
-- Costa del Este: 29
-- Las Toninas: 27
-- San Clemente del Tuyú: 26
-- Mar de Ajó: 19
-- La Lucila del Mar: 14
-- Mar Azul: 14
+### Por fuente
+- MercadoLibre: 332
+- Zonaprop: 88
+- Argenprop: 3
+
+### Por ciudad
+- Pinamar: 51
+- Costa Esmeralda: 48
+- San Bernardo: 41
+- Villa Gesell: 40
+- Mar del Tuyú: 40
+- Santa Teresita: 30
+- Las Toninas: 24
+- Costa del Este: 24
+- San Clemente del Tuyú: 21
+- Mar de Ajó: 17
 - Cariló: 13
-- Valeria del Mar: 12
-- Ostende: 11
-- Mar de las Pampas: 11
-- Costa Azul: 10
+- Valeria del Mar: 13
+- Mar Azul: 13
+- Mar de las Pampas: 10
+- Ostende: 9
+- La Lucila del Mar: 9
+- Costa Azul: 7
 - Mar de Ostende: 5
-- Aguas Verdes: 4
+- Aguas Verdes: 3
 - Costa Chica: 3
-- Las Gaviotas: 3
-- Montecarlo: 1
-
-## Consumo
-
-```
-https://raw.githubusercontent.com/matiasmelia/oficinapro-leads/main/propiedades.json
-```
+- Las Gaviotas: 2
